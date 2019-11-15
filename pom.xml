@@ -18,6 +18,7 @@
         <remote.server>https://aieou.dk/manager/text</remote.server>
         <remote.user>gui_user</remote.user>
         <remote.password>kmaisc00</remote.password>
+        <remote.pw>kmaisc00</remote.pw>
         
     </properties>
     
